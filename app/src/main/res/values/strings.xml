@@ -10,4 +10,12 @@
     <string name="add">add</string>
     <string name="share">share</string>
     <string name="person">person</string>
+    <string name="countofposts">0</string>
+    <string name="countoffollowing">25</string>
+    <string name="countoffollowers">36</string>
+    <string name="posts">Posts</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="edit">Edit profile</string>
+    <string name="profpic">profile picture</string>
 </resources>
